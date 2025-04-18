@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "title": "Learn with me .",
+        "content": "Learning to code can be intimidating, but doing it together makes it easier and more fun. In this blog series, I\u2019ll share my journey as I learn new technologies\u2014from HTML to Python, from debugging nightmares to \u201caha!\u201d moments. Whether you're just starting or looking to brush up on skills, I invite you to learn with me. Let's grow, fail, try again, and succeed\u2014side by side.\r\n"
+    },
+    {
+        "id": 2,
+        "title": "PHP",
+        "content": "PHP (Hypertext Preprocessor) is a widely-used, open-source scripting language primarily designed for web development. It is embedded within HTML to create dynamic web pages, and it can also be used for server-side scripting.\r\n\r\nHere are some key points about PHP:\r\n\r\nServer-Side Language: PHP runs on the server, meaning it generates HTML before sending it to the browser.\r\n\r\nDynamic Content: It can interact with databases (like MySQL) to generate dynamic web pages based on user input or other factors.\r\n\r\nEasy to Learn: PHP syntax is similar to C, making it accessible for developers familiar with other programming languages.\r\n\r\nCross-Platform: PHP runs on various platforms, including Windows, Linux, and macOS.\r\n\r\nDatabase Integration: PHP commonly interacts with MySQL or other databases to store and retrieve data for websites.\r\n\r\nOpen-Source: Free to use and modify, with a large community of developers and resources.\r\n\r\nPHP is often used for tasks like user authentication, form processing, content management systems (like WordPress), and more."
+    },
+    {
+        "id": 3,
+        "title": "Why You Should Learn PHP in 2025 ?",
+        "content": "PHP has come a long way since its early days. Despite being declared \"dead\" by critics for years, it's still powering over 75% of websites globally \u2014 including giants like Facebook (in its early form), WordPress, and Wikipedia.\r\n\r\nHere\u2019s why PHP still matters in 2025:\r\n- \u2705 Easy to learn and get started\r\n- \u2699\ufe0f Integrates well with HTML\r\n- \ud83c\udf10 Huge ecosystem (WordPress, Laravel, Symfony)\r\n- \ud83d\ude80 Fast deployment with minimal setup\r\n\r\nIf you're building web applications or want to quickly spin up backend logic, PHP remains a solid, battle-tested choice. Don\u2019t let the hate fool you \u2014 it\u2019s still got it.\r\n\r\nWhat\u2019s your experience with PHP? Let me know in the comments! \ud83d\ude09\r\n"
+    },
+    {
+        "id": 4,
+        "title": "The Power of Persistence: Never Give Up",
+        "content": "The road to success is filled with obstacles, but it's the persistence to keep going when things get tough that makes all the difference. Remember, the most successful people are not those who never fail but those who keep trying despite the failures. "
+    }
+]
