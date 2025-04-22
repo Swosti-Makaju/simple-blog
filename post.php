@@ -15,11 +15,11 @@ foreach ($posts as $p) {
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title><?= $post ? $post['title'] : 'Post Not Found' ?></title>
-  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="style.css">
 </head>
 <body>
   <header>
-    <h1>Code and Coffee</h1>
+    <h1>Learn With Me .</h1>
     <nav>
       <a href="index.php">Home</a>
     </nav>
